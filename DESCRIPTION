@@ -1,7 +1,7 @@
 Package: RoBSA
 Type: Package
 Title: Robust Bayesian Survival Analysis
-Version: 1.0.2
+Version: 1.0.3
 Maintainer: František Bartoš <f.bartos96@gmail.com>
 Authors@R: c( 
     person("František", "Bartoš", role = c("aut", "cre"),
@@ -36,7 +36,7 @@ Suggests: parallel, ggplot2, flexsurv, testthat, vdiffr, knitr,
         rmarkdown, covr
 RdMacros: Rdpack
 NeedsCompilation: yes
-Packaged: 2023-05-30 14:53:38 UTC; fbart
+Packaged: 2025-03-24 21:20:33 UTC; fbart
 Author: František Bartoš [aut, cre] (<https://orcid.org/0000-0002-0018-5573>),
   Julia M. Haaf [ths] (<https://orcid.org/0000-0001-5122-706X>),
   Matthew Denwood [cph] (Original copyright holder of some modified code
@@ -44,4 +44,4 @@ Author: František Bartoš [aut, cre] (<https://orcid.org/0000-0002-0018-5573>),
   Martyn Plummer [cph] (Original copyright holder of some modified code
     where indicated.)
 Repository: CRAN
-Date/Publication: 2023-05-30 15:10:02 UTC
+Date/Publication: 2025-03-24 21:50:08 UTC
